@@ -19,4 +19,4 @@ Google Cloud Platform
 Modern Data Pipeine Tool - https://www.mage.ai/
 
 ## Data Model
-<img src="data_model.jpeg">
+<img src="Data Model diagram.jpeg">
